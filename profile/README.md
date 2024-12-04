@@ -1,12 +1,12 @@
-## Hi there 👋
+# 개인적으로 한번 해보고 싶은거 구현해보는, 만들어보는 공간
 
-<!--
+## Repository List
+### 1. eill (웹)
+일본의 싱어송라이터 eill을 소개하는 사이트입니다.
+- 대표 기술스택 : React, Styled-components
+- url : https://eill.netlify.app/ <a href="https://eill.netlify.app/">바로가기</a>
 
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+### 2. Algorithm (알고리즘)
+알고리즘 전용 Repository / 1인용 오목, 맵 생성 알고리즘도 있습니다.
+- 대표 기술스택 : C
+ 
