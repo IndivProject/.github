@@ -7,6 +7,6 @@
 - url : https://eill.netlify.app/ <a href="https://eill.netlify.app/">바로가기</a>
 
 ### 2. Algorithm (알고리즘)
-알고리즘 전용 Repository / 1인용 오목, 맵 생성 알고리즘도 있습니다.
+알고리즘 전용 Repository / 1인용 블랙잭과 2인용 오목, 맵 생성 알고리즘도 있습니다.
 - 대표 기술스택 : C
  
